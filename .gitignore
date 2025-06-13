@@ -1,0 +1,16 @@
+# Ignorar node_modules en todos los módulos del curso
+**/node_modules/
+
+# Ignorar carpetas de build generadas por CRA y Vite
+**/dist/
+**/build/
+
+# Archivos temporales y del sistema
+.DS_Store
+.vscode/
+*.log
+
+# Archivos de prueba o personales
+base-pruebas.zip
+base-pruebas/
+01-intro-react/

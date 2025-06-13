@@ -10,13 +10,14 @@ Este repositorio contiene todos los ejercicios, mini-proyectos y tareas realizad
 
 Cada carpeta representa una sección del curso con su respectiva aplicación o ejemplo práctico. Se mantiene el orden cronológico según la progresión del contenido.
 
-| Carpeta               | Descripción                              |
-|-----------------------|------------------------------------------|
-| `01-introduccion`     | Primeros pasos, conceptos básicos        |
-| `02-counter-app`      | Primer app con componentes funcionales   |
-| `03-gif-expert-app`   | App de búsqueda de GIFs con API y hooks  |
-| `04-hook-app`         | Profundización en custom hooks y context |
-| `...`                 | Más módulos en progreso                  |
+| Carpeta                   | Descripción                              |
+|---------------------------|------------------------------------------|
+| `02-intro-javascript`     | Primeros pasos, conceptos básicos        |
+| `03-counter-app-cra`      | Primer app con componentes funcionales CRA   |
+| `03-counter-app-vite`     | Primer app con componentes funcionales VITE   |
+| `04-gif-expert-app`       | App de búsqueda de GIFs con API y hooks  |
+| `05-hook-app`             | Profundización en custom hooks y context |
+| `...`                     | Más módulos en progreso                  |
 
 ---
 
