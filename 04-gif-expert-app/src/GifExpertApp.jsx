@@ -1,5 +1,5 @@
 
-export const GiftExpertApp = () => {
+export const GifExpertApp = () => {
   return (
     <>
         <h1>GiftExpert</h1>  
