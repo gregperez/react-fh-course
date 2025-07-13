@@ -11,6 +11,9 @@
     "test": "jest --watchAll"
   },
   "dependencies": {
+    "@testing-library/dom": "^10.4.0",
+    "@types/prop-types": "^15.7.15",
+    "prop-types": "^15.8.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
