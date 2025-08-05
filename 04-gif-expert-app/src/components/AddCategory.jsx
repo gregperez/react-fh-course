@@ -11,14 +11,13 @@ export const AddCategory = ({ onNewCategory }) => {
     };
 
     const onSubmit = ( event ) => {
-        console.log( "Hola mundo desde onSubmit" );
         event.preventDefault();
         const newInputValue = inputValue.trim();
         if( newInputValue.length <= 1 ) return;
 
         // setCategories( categories => [ inputValue, ...categories ]);
-        onNewCategory( newInputValue );
         setInputValue('');
+        onNewCategory( newInputValue );
     }
 
     return (
